@@ -8,18 +8,17 @@ Your task is to build a Single Page Application that consumes an API endpoint of
 We would expect this task to take a few hours, however there is no strict time limit and you won't be judged on how long it took you to complete.
 
 1. You must use [React](https://reactjs.org/)
-1. Your site should support Chrome, Firefox, Safari, IE11 & Edge
-1. The Table should have sortable columns, triggered by clicking on the column headers
-1. The Table should have paginated data with controls to step forward and back
-1. You should write additional tests to cover your solution
+1. Your site should support Chrome, Firefox, Safari & Edge.
+1. The Table should have sortable columns, triggered by clicking on the column headers.
+1. The Table should have paginated data with controls to step forward and back.
+1. You should write additional tests to cover your solution.
 1. There is a mock API available, see the API script below for more details.
 
 ## Additional Tasks
 
 These tasks are not mandatory, this is your time to put your touch on your submission, you might want to consider
 
-- internationalisation
-- host your finished site somewhere free such as [Heroku](https://www.heroku.com/) or [zeit](https://zeit.co/) and send us the address
+- host your finished site somewhere free such as [Heroku](https://www.heroku.com/) or [vercel](https://vercel.com/) and send us the address
 - anything else you can think of to enhance your app, we'd love to see your ideas.
 
 ## Technologies
